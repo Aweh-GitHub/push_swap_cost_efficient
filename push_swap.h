@@ -6,7 +6,7 @@
 /*   By: thantoni <thantoni@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/19 09:02:43 by thantoni          #+#    #+#             */
-/*   Updated: 2025/12/02 09:16:40 by thantoni         ###   ########.fr       */
+/*   Updated: 2025/12/02 10:40:36 by thantoni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # define TRUE 1
 # define FALSE 0
+#define RANGE_OPTI_IS = 1
 
 # include <sys/types.h>
 # include <stddef.h>
